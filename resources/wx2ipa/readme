@@ -1,0 +1,13 @@
+# Name: Readme for l2pconverter.py       
+# Author:      Sudheer
+# Created:     03/03/2014
+#-----------------------------------------------------------------------------
+This is the readme for the script fontconverter.py which converts 
+wx transcription to (broad) phonemic transcription using IPA. The 
+script uses language-specific *.map files. 
+
+This tar archive contains the following files-
+fontconverter.py: main script
+hinwx2ipa.map: mapping from wx characters to IPA symbols
+hinipa2wx.map: mapping from IPA symbols to wx characters
+
