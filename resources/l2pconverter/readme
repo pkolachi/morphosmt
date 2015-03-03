@@ -11,5 +11,3 @@ fontconverter.py: main script
 hinwx2ipa.map: mapping from wx characters to IPA symbols
 hinipa2wx.map: mapping from IPA symbols to wx characters
 
-(There are a few older map files which need verification before 
-they are deleted.)
